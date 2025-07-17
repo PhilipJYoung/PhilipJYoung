@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhilipJYoung
 - 👀 I’m interested in tackling things that I'm not good at in order to learn.
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python, Blender, and Godot
 
 <!---
 PhilipJYoung/PhilipJYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
